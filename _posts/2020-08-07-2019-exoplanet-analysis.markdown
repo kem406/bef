@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019 Exoplanet Analysis"
-img: 2854588.jpg # Add image post (optional)
+img: flashlight.jpg # Add image post (optional)
 date: 2017-07-05 12:52:00 +0300
 description: Page for exoplanet analsysis on 2019 star observations. # Add post description (optional)
 tag: 
