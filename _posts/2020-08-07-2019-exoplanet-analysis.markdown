@@ -6,9 +6,9 @@ date: 2017-07-05 12:52:00 +0300
 description: Page for exoplanet analsysis on 2019 star observations. # Add post description (optional)
 tag: 
 ---
-$$ \begin{equation} \label{label} a^2 = b^2 \end{equation} $$
+$$ \label{label} a^2 = b^2 $$
 
-$$ \begin{equation} \label{label} \sqrt{x^2 + \frac{1}{2}} \end{equation} $$
+$$ \label{label} \sqrt{x^2 + \frac{1}{2}} $$
 
 > Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
 
