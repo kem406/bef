@@ -9,6 +9,8 @@ tag:
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
+$$ \begin{equation} \label{label} x \end{equation} $$
+
 > Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
 
 HI THIS IS RON    
