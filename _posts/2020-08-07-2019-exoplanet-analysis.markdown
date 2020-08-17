@@ -8,6 +8,8 @@ tag:
 ---
 $$ \begin{equation} \label{label} a^2 = b^2 \end{equation} $$
 
+$$ \begin{equation} \label{label} \sqrt{x^2 + \frac{1}{2}} \end{equation} $$
+
 > Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
 
 HI THIS IS RON    
