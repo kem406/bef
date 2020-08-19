@@ -47,6 +47,9 @@ The transit method for detecting exoplanets is as follows:
 
 ## Step 1: TESS Observation
 
+![Image of Yaktocat](https://kem406.github.io/bef/assets/img/tess.jpg)
+<small>Source: NASA</small>
+
 The [Transiting Exoplanet Survey Satellite](https://tess.mit.edu/) (TESS) is a NASA mission led by MIT dedicated to the discovery of extrasolar planets. TESS determines exoplanet candidates and predictions from data sent back to the ground. It accomplishes this by doing the following:
 
 * TESS surveys the sky through four cameras. The sky is split in 26 parts, each of which is observed for 27.4 days.
@@ -54,6 +57,8 @@ The [Transiting Exoplanet Survey Satellite](https://tess.mit.edu/) (TESS) is a N
 * TESS watches for transiting planets, which means it watches for planets that pass between the satellite (the observer) and the host star.
 
 * TESS sends data to be analyzed and reviewed so that exoplanet candidates can be recorded.
+
+
 
 ## Step 2: Target Selection
 
