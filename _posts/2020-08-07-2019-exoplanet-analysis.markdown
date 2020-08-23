@@ -49,6 +49,8 @@ The transit method for detecting exoplanets is as follows:
 
 ![](https://kem406.github.io/bef/assets/img/tess.jpg | width=250)
 
+<img src="https://kem406.github.io/bef/assets/img/tess.jpg" alt="TESS" width="250" height="100">
+
 <sub>Source: NASA</sub>
 
 The [Transiting Exoplanet Survey Satellite](https://tess.mit.edu/) (TESS) is a NASA mission led by MIT dedicated to the discovery of extrasolar planets. TESS determines exoplanet candidates and predictions from data sent back to the ground. It accomplishes this by doing the following:
