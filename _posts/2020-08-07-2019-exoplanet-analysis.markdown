@@ -47,9 +47,7 @@ The transit method for detecting exoplanets is as follows:
 
 ## Step 1: TESS Observation
 
-![](https://kem406.github.io/bef/assets/img/tess.jpg | width=250)
-
-<img src="https://kem406.github.io/bef/assets/img/tess.jpg" alt="TESS" width="250" height="100">
+<img src="https://kem406.github.io/bef/assets/img/tess.jpg" alt="TESS" width="485" height="325">
 
 <sub>Source: NASA</sub>
 
