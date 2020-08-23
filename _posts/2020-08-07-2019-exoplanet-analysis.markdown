@@ -59,11 +59,9 @@ The [Transiting Exoplanet Survey Satellite](https://tess.mit.edu/) (TESS) is a N
 
 * TESS sends data to be analyzed and reviewed so that exoplanet candidates can be recorded.
 
-
-
 ## Step 2: Target Selection
 
-We select targets based upon certain criteria, then send them in for observation at the Fred Lawrence Whipple Observatory.   
+Under normal circumstances, we would select targets based upon certain criteria, then send them in for observation at the Fred Lawrence Whipple Observatory. However, given the timeline of our project and weather conditions in Arizona, we were not able to make observations until the last minute (which you can read about in our [2020 exoplanet analysis page](https://kem406.github.io/bef/2020-exoplanet-analysis/)). Therefore, Allyson Bieryla provided us with datasets collected last year.  
 
 ## Step 3: Data Reduction and Analysis in AstroImageJ
 
