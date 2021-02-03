@@ -7,7 +7,7 @@ description: Analyzing microlensing events with machine learning. # Add post des
 tag: []
 ---
 
-This is a presentation given by Patrick Maynard on how machine learning can be applied to topics in astronomy. Machine learning has numerous applications in astronomy, navigation, and image processing (the NASA image of the Sombrero galaxy used in this post was upscaled using generative adversarial networks).
+This is a presentation given by Patrick Maynard on how machine learning can be applied to topics in astronomy. Machine learning has numerous applications in astronomy, navigation, and image processing (the NASA image of M104 above was upscaled using GANs).
 
 <iframe src="https://www.youtube.com/embed/ClHWNUYksiQ"
     width="560"
@@ -15,7 +15,3 @@ This is a presentation given by Patrick Maynard on how machine learning can be a
     frameborder="0"
     allowfullscreen>
 </iframe>
-
-> This is a quote <cite>- Lorem Ipsum</cite>
-
-AskJDKAJSHDKJH
