@@ -47,6 +47,10 @@ The transit method for detecting exoplanets is as follows:
 
 ## Step 1: TESS Observation
 
+<img src="https://kem406.github.io/bef/assets/img/tess.jpg" alt="TESS" width="485" height="325">
+
+<sup>Source: NASA</sup>
+
 The [Transiting Exoplanet Survey Satellite](https://tess.mit.edu/) (TESS) is a NASA mission led by MIT dedicated to the discovery of extrasolar planets. TESS determines exoplanet candidates and predictions from data sent back to the ground. It accomplishes this by doing the following:
 
 * TESS surveys the sky through four cameras. The sky is split in 26 parts, each of which is observed for 27.4 days.
@@ -57,7 +61,25 @@ The [Transiting Exoplanet Survey Satellite](https://tess.mit.edu/) (TESS) is a N
 
 ## Step 2: Target Selection
 
-We select targets based upon certain criteria, then send them in for observation at the Fred Lawrence Whipple Observatory.   
+Under normal circumstances, we would select targets based upon certain criteria, then send them in for observation at the Fred Lawrence Whipple Observatory. However, given the timeline of our project and weather conditions in Arizona, we were not able to make observations until the last minute (which you can read about in our [2020 exoplanet analysis page](https://kem406.github.io/bef/2020-exoplanet-analysis/)). Therefore, Allyson Bieryla provided us with datasets collected by FLWO last year.
+
+Target selection is done with the following in mind:
+
+* Beginning time of transit 
+
+* Duration of the transit
+
+* Magnitude of the host star 
+
+* Depth of the transit
+
+* Ingress/egress times 
+
+* “False positives” and/or NEBS
+
+* Wavelength/filters 
+
+* Priority and notes
 
 ## Step 3: Data Reduction and Analysis in AstroImageJ
 
