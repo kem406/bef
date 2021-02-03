@@ -1,0 +1,17 @@
+---
+layout: post
+title: "The Sun Eater"
+img: schwarzchild.jpg # Add image post (optional)
+date: 2017-08-05 12:55:00 +0300
+description: Black hole group presentation # Add post description (optional)
+tag: []
+---
+
+This video was put together by Ishika, Riya, Janhvie, Ryan, and Ian to explain black holes to the class.
+
+<iframe src="https://www.youtube.com/embed/5utaxTq9ulg"
+    width="560"
+    height="315"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
